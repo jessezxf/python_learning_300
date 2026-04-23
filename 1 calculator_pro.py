@@ -21,6 +21,8 @@
 #
 
 
+
+
 #     num2 = input("输入第2个数（输入q退出）：")
 #     if num2.lower() =='q':
 #         print("退出程序")
