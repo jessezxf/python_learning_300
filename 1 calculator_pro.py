@@ -2,6 +2,7 @@
 
 
 # num1 = float(input("输入第一个数："))
+
 # num2 = float(input("输入第二个数："))
 # print(f"第一个数{num1}")
 # print(f"第二个数{num2}")
