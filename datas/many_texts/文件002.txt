@@ -1,0 +1,3 @@
+Python入门习题第83练：不同文件的数据关联
+需求：编写一个程序，从course_teacher.txt和course_student_grade.txt两个文本文件中读取信息，
+并打印出包含课程名称、教师姓名、学生学号、学生姓名和学生成绩的完整信息。
